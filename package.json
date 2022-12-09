@@ -56,6 +56,9 @@
 	"dependencies": {
 		"react": "^16.13.1",
 		"react-dom": "^16.13.1",
-		"react-router-dom": "^5.2.0"
+		"react-flow-renderer": "^10.3.17",
+		"react-rnd": "^10.3.7",
+		"react-router-dom": "^5.2.0",
+		"reactflow": "^11.3.3"
 	}
 }
