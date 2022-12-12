@@ -6,7 +6,7 @@ import DiagramContainer from "./DiagramContainer";
 const HelloWorld = () => {
 	return (
 		<div>
-		 <DiagramContainer></DiagramContainer>
+		<DiagramContainer></DiagramContainer>
 		</div>
 	)
 }

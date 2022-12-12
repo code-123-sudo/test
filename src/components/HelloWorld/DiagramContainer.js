@@ -23,7 +23,7 @@ const DiagramContainer = () => {
       }}
     >
       <ReactFlowProvider>
-        <Diagram width={diagramWidth} height={diagramHeight}></Diagram>
+       <Diagram width={diagramWidth} height={diagramHeight}></Diagram>
       </ReactFlowProvider>
     </Rnd>
   );
